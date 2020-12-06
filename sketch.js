@@ -122,7 +122,7 @@ function draw() {
    {
    particle.display();
            
-   if (particle.body.position.y>900)
+   if (particle.body.position.y>760)
    {
    if (particle.body.position.x > 601 && particle.body.position.x < 900) 
    {
